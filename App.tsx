@@ -216,7 +216,7 @@ const App: React.FC = () => {
             </div>
             <div className="hidden md:block">
               <h1 className={`text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r ${getTextGradient()}`}>
-                Design de Ambientes
+                Design Envorinment
               </h1>
               <div className={`text-xs ${isDarkMode ? 'text-gray-400' : 'text-gray-500'}`}>
                 Powered by Gemini 2.5 Flash
